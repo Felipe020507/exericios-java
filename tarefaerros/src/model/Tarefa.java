@@ -17,7 +17,7 @@ public class Tarefa {
         return completado;
     }
 
-    public void setCompletado() {
+    public void setCompletado(boolean completed) {
         this.completado = completed;
     }
 }
