@@ -16,7 +16,7 @@ public class Tarefacontroller {
 
     public void addTarefa(String description) {
         Tarefa tarefa1 = new Tarefa(description);
-        tarefa.add(tarefa1);
+        tarefa1.add(tarefa1);
         atualizarView();
     }
 
@@ -35,6 +35,6 @@ public class Tarefacontroller {
     }
 
     private void atualizarView() {
-        mostrarTarefa();
+        mostrarTarefa():
     }
 }

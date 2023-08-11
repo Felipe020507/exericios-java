@@ -9,7 +9,7 @@ public class Tarefaview {
         System.out.println("Lista de Tarefas:");
         for (i = 0; i < tarefa.size(); i++) {
             Tarefa tarefa1 = tarefa.get(i);
-            System.out.println((i + 1) + ". [" + (tarefa1.isCompleto() ? "x" : " ") + "] " + tarefa1.getDescricao());
+            System.out.printn((i + 1) + ". [" + (tarefa1.isCompleto() ? "x" : " ") + "] " + tarefa.getDescricao());
         }
     }
 }

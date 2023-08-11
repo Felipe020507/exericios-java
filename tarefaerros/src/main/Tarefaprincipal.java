@@ -1,8 +1,6 @@
 package main;
 
 import java.util.List;
-import java.util.Scanner;
-
 import controller.Tarefacontroller;
 
 
@@ -40,6 +38,5 @@ public class Tarefaprincipal {
                 default:
                     System.out.println("Opcao invalida.");
             }
-        }
-    }
+        
 }
