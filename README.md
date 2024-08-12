@@ -7,7 +7,7 @@ Explore os códigos-fonte dos exercícios para entender e praticar conceitos Jav
 Contribua adicionando novos exercícios, melhorando a documentação ou corrigindo possíveis erros
 
 ## Licença
-Este projeto está licenciado sob a [Felipe Casale]. 
+Este projeto está licenciado sob Felipe Casale. 
 
 ## Contato
 Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
