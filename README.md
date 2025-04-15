@@ -1,5 +1,5 @@
 ## Java Exercícios
-Este repositório abriga uma série de exercícios em Java, englobando diversos tópicos fundamentais, tais como DAO (Data Access Object), composição, interface e classes, orientação a objetos, herança, matriz e array, manipulação de arquivos e integração Java com banco de dados. Os exercícios foram elaborados para proporcionar uma abordagem prática e abrangente ao desenvolvimento em Java, adequada tanto para iniciantes quanto para desenvolvedores experientes em busca de aprimoramento contínuo.
+Este repositório abriga uma série de exercícios em Java que fiz no Senai, englobando diversos tópicos fundamentais, tais como DAO (Data Access Object), composição, interface e classes, orientação a objetos, herança, matriz e array, manipulação de arquivos e integração Java com banco de dados. Os exercícios foram elaborados para proporcionar uma abordagem prática e abrangente ao desenvolvimento em Java, adequada tanto para iniciantes quanto para desenvolvedores experientes em busca de aprimoramento contínuo.
 
 ## Como Utilizar Este Repositório
 Navegue pelas categorias para encontrar exercícios relacionados a tópicos específicos.
